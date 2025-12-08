@@ -1,0 +1,37 @@
+{
+  "os": "macOS-26.1-arm64-arm-64bit",
+  "python": "CPython 3.11.14",
+  "startedAt": "2025-12-08T20:42:20.507215Z",
+  "program": "/Users/dhruv/code/Machine Learning/Projects/Deeplearning-Project/project/index.ipynb",
+  "codePath": "/Users/dhruv/code/Machine Learning/Projects/Deeplearning-Project/project/index.ipynb",
+  "codePathLocal": "index.ipynb",
+  "git": {
+    "remote": "git@github.com:Dhruvrana8/Deeplearning-Project.git",
+    "commit": "44a0d609a2309486c73145e88ff0e80c2868c78c"
+  },
+  "email": "dhruvrana4@gmail.com",
+  "root": "/Users/dhruv/code/Machine Learning/Projects/Deeplearning-Project/project",
+  "host": "Dhruvs-MacBook-Air.local",
+  "executable": "/Users/dhruv/code/Machine Learning/Projects/Deeplearning-Project/.venv/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "468524953600"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "apple": {
+    "name": "Apple M2",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 8,
+    "swapTotalBytes": "5368709120",
+    "ramTotalBytes": "8589934592"
+  },
+  "writerId": "ey4lds5zwalvhywm1skgdkvu79v8wn6w"
+}
